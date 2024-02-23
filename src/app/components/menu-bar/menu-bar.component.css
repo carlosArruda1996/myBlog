@@ -1,0 +1,14 @@
+
+
+.container-menu > ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: .7rem;
+}
+
+.container-menu > ul >li{
+    margin-left: 1.5rem;
+    list-style: none;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,25 @@
+.big-card-container{
+    margin-top: .5rem;
+    width: 400px;
+    height: 32rem;
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.big-card-title > h1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    font-size: 1.5rem;
+}
+
+.big-card-description{
+    margin-left: .7rem;
+}
+.big-card-description > p > a{
+    color: gray;
+
+}
